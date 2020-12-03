@@ -78,7 +78,11 @@ git remote -v 查看当前所有远程地址别名
 
 git remote add [别名] [远程地址]
 
+对地址进行操作：
+
 git clone [远程地址]
+
+以下都是对分支进行操作
 
 git push [别名] [分支名]
 
